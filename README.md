@@ -44,6 +44,10 @@ https://webexpress-framework.github.io/webExpress-framework/
 - System fonts only.
 - Responsive, mobile-first, WCAG AA in mind.
 
+## AI transparency notice
+
+Parts of this software, its documentation, and its assets were created with the assistance of AI-based tools, including large language models. AI-assisted contributions are reviewed by the project maintainer before they are included.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).

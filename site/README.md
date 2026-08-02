@@ -31,3 +31,7 @@ file server, e.g.:
 ```
 python -m http.server --directory site 8080
 ```
+
+## AI transparency notice
+
+Parts of this software, its documentation, and its assets were created with the assistance of AI-based tools, including large language models. AI-assisted contributions are reviewed by the project maintainer before they are included.
