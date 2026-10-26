@@ -34,7 +34,7 @@ The site is deployed automatically via GitHub Actions whenever a change to `site
 Go to **Settings → Pages** in this repository and set the source to **GitHub Actions**. After the next push to `main` the site will be live at:
 
 ```
-https://webexpress-framework.github.io/webExpress-framework/
+https://webexpress-framework.github.io/
 ```
 
 ## Design constraints
